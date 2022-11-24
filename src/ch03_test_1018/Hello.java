@@ -15,6 +15,7 @@ public class Hello {
 		System.out.println("Hello 이상용 자바");
 		System.out.println("Hello 이상용 자바");
 		System.out.println("Hello 이상용 자바");
+		System.out.println("Hello 이상용 자바");
 	}
 
 }
